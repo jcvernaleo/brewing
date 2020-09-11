@@ -1,7 +1,7 @@
 # Seasick Brewing
 
 This whitepaper describes the challenges and possibilities of
-boat-based (mostly) small scale breeing of beer.  It discusses the
+boat-based (mostly) small scale brewing of beer.  It discusses the
 motivations, open questions, and possible solutions.
 
 ### 08/2020
@@ -9,6 +9,7 @@ motivations, open questions, and possible solutions.
 ### authors
 
 jcv@netpurgatory.com
+dariusz@wallbrew.com
 
 ## Introduction
 
@@ -27,7 +28,7 @@ For the proposes of this paper we will assume that there are three
 size scales for brewing.  In reality there is much more of a continuum
 but for simplicity three scales should illustrate things well enough.
 
-Homebrew scale will be considered anything in the 2 to 10 gallon range.
+Homebrew scale will be considered anything in the 2 to 10 gallon range per batch.
 
 Microbrew is defined as anything larger than homebrew but not at an
 industrial scale.  (insert more accurate amount).
@@ -54,6 +55,13 @@ This means a source of high quality, fresh water is needed.  For
 homebew size, 5-8 US Gallon batches this can be imported from land
 without much trouble.
 
+Anything larger than homebrew scale might further complicate importing
+fresh water for an ocean-based boat brew.  With that said, the seemingly
+limitless fresh water from Great Lakes offer a tempting alternative 
+(though, with their own set of issues - particularly the rather 
+harsh winters they withstand).  It's worth noting that water from
+the Great Lakes is incredibly desireable for brew operations. 
+
 The second use of water is as a thermal reservoir, generally to cool
 the wort very quickly.  In this case, brewing on a boat provides
 several new options as there is an effectively limitless thermal
@@ -74,7 +82,7 @@ other source of heating was available on the vessel.
 ## Distilling
 
 Distilling might also provide an interesting area for water-based
-production.  It is important to not that generally speaking,
+production.  It is important to note that generally speaking,
 distilling is not legal in the United States and so this section is
 for entertainment purposes only.  It is unclear to the authors the
 legality of distilling in international waters.
