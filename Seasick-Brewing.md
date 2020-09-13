@@ -116,6 +116,8 @@ In addition to this glaring ambiguity, state laws (for US coastal brewing)
 typically vary for the production, transportation, and consumption of
 alcohol.
 
+## Challenge Mitigations & Possible Solutinos
+
 ## Vessel requirements
 
 ## Limitations
