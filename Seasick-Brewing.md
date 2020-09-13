@@ -9,6 +9,7 @@ motivations, open questions, and possible solutions.
 ### authors
 
 jcv@netpurgatory.com
+
 dariusz@wallbrew.com
 
 ## Introduction
@@ -74,6 +75,46 @@ would most likely have to be done with propane heaters unless some
 other source of heating was available on the vessel.
 
 ## Challenges
+
+There are a number of challenges this project would face - though
+this should not mean it is not worthy of study and contemplation.  
+
+### Scale
+
+The authors have outlined their three definitions of brewing scale earlier 
+in this whitepaper.  Acquisition costs, profits, and operational budgets may
+severely limit the viability of smaller microbrewing boats. 
+
+Homebrewers would likely not see much of an issue or change to their typical 
+brewing process.  
+
+Marco-, industrial brewing would require a vessel well-beyond the expertise
+of the authors.  Tankers, cruiseships, or some other blue water merchant ship 
+would likely be needed to properly service their targeted barrel volume(s).
+
+The, likely, most viable boat-brewery would use a smaller sized merchant ship
+or large oceanic tugboat as its brewery. (add more) 
+
+### Stable/Consistent Brewing Conditions
+
+(Humidity, temperature, and sloshing)
+
+(Grain, hop, and yeast storage)
+
+### Revenue
+
+### Distribution & Packaging
+
+### Legal
+The authors of this paper offer no legal understanding of 
+(inter)national alcohol regulations, outside of more obvious
+and commonplace knowledge.  Literature outlining maritime brewing,
+distillation (see below), or any other fermentation processes is 
+lacking.
+
+In addition to this glaring ambiguity, state laws (for US coastal brewing)
+typically vary for the production, transportation, and consumption of
+alcohol.
 
 ## Vessel requirements
 
