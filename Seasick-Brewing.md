@@ -101,9 +101,19 @@ or large oceanic tugboat as its brewery. (add more)
 
 (Grain, hop, and yeast storage)
 
+### Labor
+
+(Offers the rather niche intersection for brewhouse workers, needing to be
+sailors and brewers - or a larger workforce needed to fill these roles
+seperately)
+
 ### Revenue
 
+(For this to work, it'd need to make some money)
+
 ### Distribution & Packaging
+
+(Canning and kegging lines take up quite a bit of space)
 
 ### Legal
 The authors of this paper offer no legal understanding of 
@@ -116,11 +126,19 @@ In addition to this glaring ambiguity, state laws (for US coastal brewing)
 typically vary for the production, transportation, and consumption of
 alcohol.
 
-## Challenge Mitigations & Possible Solutinos
+## Challenge Mitigations & Possible Solutions
+
+(Possible solutions, or mitigations at least, to that which is outlined
+in the previous section)
 
 ## Vessel requirements
 
+(Largely depends on volume and scale)
+
 ## Limitations
+
+(Challeneges outlined above, defining limitations as business, volume,
+and so forth)
 
 ## Distilling
 
