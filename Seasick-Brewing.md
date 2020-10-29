@@ -4,7 +4,7 @@ This whitepaper describes the challenges and possibilities of
 boat-based (mostly) small scale brewing of beer.  It discusses the
 motivations, open questions, and possible solutions.
 
-### 08/2020
+### 10/2020
 
 ### authors
 
