@@ -4,7 +4,7 @@ This whitepaper describes the challenges and possibilities of
 boat-based (mostly) small scale brewing of beer.  It discusses the
 motivations, open questions, and possible solutions.
 
-### 12/2020
+### 05/2021
 
 ### authors
 
@@ -128,7 +128,7 @@ include costs of retrofitting necessary equipment onto the boat. (add more)
 
 (Grain, hop, and yeast storage)
 
-### Labor & Culture
+## Labor & Culture
 
 (Offers the rather niche intersection for brewhouse workers, needing to be
 sailors and brewers - or a larger workforce needed to fill these roles
@@ -137,6 +137,55 @@ seperately)
 (It would be worth putting down our business culture requirements in writing
 to reference.  This may include leadership structure, decision making and 
 equity offered to workers) 
+
+### Sustainability
+
+Sustainability is often a 10-dollar word used by various organizatins in an 
+attempt to atone for any perceived or actual transgression against the 
+enviornment or community. Sea-sick, or any boat-based brewery attempted by
+the authors, would commit sustainability with a deadly seriousness for a number
+of reasons. 
+
+As noted by the authors in the introduction, brewers are typically a tinkering
+bunch with a strong interest in all things self-sustaining. The authors believe
+that this can, and should, extend to the larger scale operations invovled in a 
+brewery - particularly a boat-based brewery. 
+
+Most modern sea-worthy vessels combust incredible amounts of fossil fuels. 
+Considering that such a brewery would require a large vessel, the authors are
+sensitive to the fact that the main power plant of any ship they'd use would 
+likely be diesel electric.
+
+The authors suspect they would be able to help offset any power plant footprint
+in a few ways while ameliorating waste products. 
+
+Firstly, the deck of ship offer wonderful, unobstructed places perfect for solar
+panels. As solar becomes cheaper, the authors would necessarily include solar as
+part of any sustainability efforts on the boat. While electric heating elements
+large enough for the proper opreation of a brewery may not be efficient, many 
+other operations within a brewery need access to reliable electricity. Solar 
+on the deck of the brewery could help lower costs and lower reliance on
+the grid or onboard power plant. 
+
+Secondly, the brewing process generates a great deal of bi-products that 
+can be repurposed. It may be possible to add a thermoelectric generator to 
+a brew kettle as a way to help reclaim some of the energy lost to heat itself.
+Additionally, if in a tidal area, such a boat could utilize small hyrdo-electic
+generators to capture the energy of the tide coming in and out. Alternatively, 
+if docked in a river or area with running water, the same sort of generator 
+could be used. 
+
+Thirdly, the materials used in beer production themselves are well-equipped for
+secondary use. Spent grains are perfect for making bread, biscuits, dog treats, 
+or compost. Spent hops can see a second life as compost materials. Yeast cakes
+have long been used in the production of yeast extract products enjoyed by 
+millions world wide. 
+
+The `Canning` section of this whitepaper will more fully delve into the authors'
+plans for wider distribution, but it will adhere to the proposed brewery's 
+commitment to sustainability. 
+
+##Beers & Products
 
 ### Flagship Brews 
 
@@ -152,30 +201,26 @@ limiting the variables of a baseline operation.
 Additionally, we should offer 1-2 new beers per season, which leadership
 can decide what makes the most sense given resources and industry trends.
 
-### Revenue
-
-(For this to work, it'd need to make some money)
-
-#### Quality & Consistency
-
-(The beer/beverages produced would need to be damn good
-without calling attention to the boat)
-
 #### Novelty & Experimentation
 
 (As a boat-based brewery, we would need to be authorities
 on the latest in the industy and how to offer unique 
 experiences to our customers)
 
-#### Fundraising & Loyalty
+### Quality & Consistency
+
+(The beer/beverages produced would need to be damn good
+without calling attention to the boat)
+
+## Revenue, Fundraising, & Loyalty
 
 (We need people to initially invest in our idea and
 leverage their connections to bring this thing to life - 
 then retain those customers)
 
-### Distribution & Packaging
+## Distribution & Packaging
 
-#### Tap Room
+### Tap Room
 
 One of the most profitable ways for a brewery to distribute its
 product is a taproom.  The advantages are quite clear: kegs can be
@@ -195,15 +240,15 @@ shipping containers) which could easily house a taproom.  Furthermore,
 a boat-based brewery might even consider adding a few shipping containers
 back to the deck to create a pandemic-ready taproom. 
 
-#### Canning
+### Canning
 
 (Canning)
 
-#### Kegging
+### Kegging
 
 (Kegging)
 
-#### Regions
+### Regions
 
 As with all breweries, distribution would necessarily need to begin
 on a smaller scale - potentially staying that way through the duration
@@ -211,11 +256,11 @@ of a given boat-brewery's life.  The ability to physically move the
 brewery, especially directly to ports, does offer a potentially 
 interesting opportunity for wider distribution. 
 
-### Marketing
+## Marketing
 
 (Add more for marketing this operation)
 
-### Legal
+## Legal
 The authors of this paper offer no legal understanding of 
 (inter)national alcohol regulations, outside of more obvious
 and commonplace knowledge.  Literature outlining maritime brewing,
