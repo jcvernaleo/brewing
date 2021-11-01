@@ -4,7 +4,7 @@ This whitepaper describes the challenges and possibilities of
 boat-based (mostly) small scale brewing of beer.  It discusses the
 motivations, open questions, and possible solutions.
 
-### 05/2021
+### 11/2021
 
 ### authors
 
@@ -46,7 +46,8 @@ seen as a major loss.
 
 There are several basic requirements for brewing: water, grains,
 yeast, hops and other additions, heat, and temperature controlled
-space for fermenting.
+space for fermenting. To be Reinheitsgebot compliant, we can further
+simplify by removing the possibility of adjuncts.
 
 Grains, yeast, hops and other additions are all easily procured on
 land and may be stored relatively easily assuming basic refrigeration
@@ -64,7 +65,7 @@ fresh water for an ocean-based boat brew.  With that said, the seemingly
 limitless fresh water from U.S. Great Lakes offer a tempting alternative 
 (though, with their own set of issues - particularly the rather 
 harsh winters they withstand).  It's worth noting that water from
-the Great Lakes is incredibly desirable for brew operations. 
+the Great Lakes (spare Erie) is incredibly desirable for brew operations. 
 
 The second use of water is as a thermal reservoir, generally to cool
 the wort very quickly.  In this case, brewing on a boat provides
@@ -128,7 +129,7 @@ include costs of retrofitting necessary equipment onto the boat. (add more)
 
 (Grain, hop, and yeast storage)
 
-## Labor & Culture
+### Labor & Culture
 
 (Offers the rather niche intersection for brewhouse workers, needing to be
 sailors and brewers - or a larger workforce needed to fill these roles
@@ -136,7 +137,8 @@ separately)
 
 (It would be worth putting down our business culture requirements in writing
 to reference.  This may include leadership structure, decision making and 
-equity offered to workers) 
+equity offered to workers. It is possible a beer-focused [DAO](https://ethereum.org/en/dao/) 
+could negotiate parts of this complex culture). 
 
 ### Sustainability
 
@@ -185,7 +187,7 @@ The `Canning` section of this whitepaper will more fully delve into the authors'
 plans for wider distribution, but it will adhere to the proposed brewery's 
 commitment to sustainability. 
 
-##Beers & Products
+## Beers & Products
 
 ### Flagship Brews 
 
@@ -242,7 +244,8 @@ back to the deck to create a pandemic-ready taproom.
 
 ### Canning
 
-(Canning)
+(Canning - for many reasons, any on-boat canning should want to 
+use AL cans as opposed to glass bottles.)
 
 ### Kegging
 
@@ -289,8 +292,8 @@ and so forth)
 
 Distilling might also provide an interesting area for water-based
 production.  It is important to note that generally speaking,
-distilling is not legal in the United States and so this section is
-for entertainment purposes only.  It is unclear to the authors the
+home distilling is not legal in the United States and so this section 
+is for entertainment purposes only.  It is unclear to the authors the
 legality of distilling in international waters.
 
 Much like for brewing, the base ingredients would need to be produced
