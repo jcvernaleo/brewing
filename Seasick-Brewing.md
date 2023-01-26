@@ -4,7 +4,7 @@ This whitepaper describes the challenges and possibilities of
 boat-based (mostly) small scale brewing of beer.  It discusses the
 motivations, open questions, and possible solutions.
 
-### 11/2021
+### 02/2023
 
 ### authors
 
@@ -20,8 +20,9 @@ doomsday prepper sub-cultures they often interest.  The homebrewing
 world has always had an interest in being as self contained as
 possible combined with a very strong DIY ethic.  The combination of
 these factors and a desire to leave life on land behind brings up the
-possibility of water-born brewing.  This could be either ocean or lake
-based.
+possibility of water-born brewing.  This could be either ocean, lake,
+or even river based - depending on the brewers' needs and preference
+for opened or closed waterways.
 
 ## Possible Scales
 
@@ -29,7 +30,9 @@ For the proposes of this paper we will assume that there are three
 size scales for brewing.  In reality there is much more of a continuum
 but for simplicity three scales should illustrate things well enough.
 
-Homebrew scale will be considered anything in the **2 to 10 gallon **range per batch.
+Homebrew scale will be considered anything in the maximum of **100 
+to 200 gallon** range per year - this is a legal limit and definition
+in the United States.
 
 Microbrew is defined as anything larger than homebrew but fewer than
 **15,000 U.S. barrels** in production volume a year.  A mircobrew operation
@@ -44,15 +47,18 @@ seen as a major loss.
 
 ## Requirements
 
-There are several basic requirements for brewing: water, grains,
+There are several basic requirements for brewing: water, malted grains,
 yeast, hops and other additions, heat, and temperature controlled
 space for fermenting. To be Reinheitsgebot compliant, we can further
-simplify by removing the possibility of adjuncts.
+simplify by removing the possibility of adjuncts. There is no 
+Reinheitsgebot compliance issue based on production facility to the 
+authors' knowledge.
 
-Grains, yeast, hops and other additions are all easily procured on
+Malted grains, yeast, hops and other additions are all easily procured on
 land and may be stored relatively easily assuming basic refrigeration
 for some of them.  None of this should be significantly different for
-traditional brewing.
+traditional brewing beyond the added logistics of delivery of ingredients
+to any mobile brewing operation.
 
 Water is a more complicated situation.  There are two uses of water in
 brewing.  The first is simply that beer is composed mostly of water.
@@ -64,23 +70,32 @@ Anything larger than homebrew scale might further complicate importing
 fresh water for an ocean-based boat brew.  With that said, the seemingly
 limitless fresh water from U.S. Great Lakes offer a tempting alternative 
 (though, with their own set of issues - particularly the rather 
-harsh winters they withstand).  It's worth noting that water from
+harsh winters they withstand).  It's worth noting that treated water from
 the Great Lakes (spare Erie) is incredibly desirable for brew operations. 
+This may be solved for through either permanent docking and municipal taps 
+(which may require further treatment depending on the water) or a deal with
+harbors and marinas to provide water to the boat as part of a seasonable 
+docking or leasing of dock space.  While a challenge not typical of a 
+building-based brewery, it is not insurmountable. 
 
 The second use of water is as a thermal reservoir, generally to cool
 the wort very quickly.  In this case, brewing on a boat provides
 several new options as there is an effectively limitless thermal
 reservoir in the ocean or lake (assuming we are not talking about
-industrial scale brewing).
+industrial scale brewing). There may be local enviornmental considerations 
+when docked that would need to be approved and sorted with local 
+departments of natural resources - as even large air conditioning units
+in buildings are prohibited from dumbing otherwise untainted water 
+back into the enviornment at a higher temperature. 
 
-The next major issue is heating the water.  To brew a large amount of
+The next major issue is heating the water.  To brew, a large amount of
 water must be boiling or otherwise heating in a controlled way.  This
-would most likely have to be done with propane heaters unless some
-other source of heating was available on the vessel.  There is also
-the possibility that electric heating elements could be employed here
-as most boats already have powerful electricity generators for 
-vital operations and systems on the vessel - brewing would qualify
-as a vital operation of a brewery boat. 
+would most likely have to be done with natural gas heating elements 
+unless someother source of heating was available on the vessel.  
+There is also the possibility that electric heating elements 
+could be employed here as most boats already have powerful electricity
+generators for vital operations and systems on the vessel - brewing 
+would qualify as a vital operation of a brewery boat. 
 
 On the heating note, the authors of this paper, while lacking any formal
 nautical training, are accomplished scroungers and interested in 
@@ -92,13 +107,14 @@ Requirements for the vessel itself would be docking, mooring,
 applicable licensing, (potential) dry docking, fuel, and a crew capable
 of running a ship should it ever leave its dock.
 
-Finally, the brewery would also require capital to purchase the necessary
-components for operations, including an appropriate boat, and hire employees.
-The authors of this paper do not yet know which ways a capital raise would 
-be most effective, the target of the raise, or whom they would first approach
-for such an endeavor.  It is worth noting that crowd-funding could very well 
-be a viable option.  Communities love owning a piece of business in a given
-area.  Breweries tend to hold a special place in the hearts of locals. 
+Finally, the brewery would also require initial capital to purchase the 
+necessary components for operations, including an appropriate boat, and 
+hire employees. The authors of this paper do not yet know which ways a 
+capital raise would be most effective, the target of the raise, or whom 
+they would first approach for such an endeavor.  It is worth noting 
+that crowd-funding could very well be a viable option.  Communities love
+owning a piece of business in a given area.  Breweries tend to hold a 
+special place in the hearts of locals. 
 
 ## Challenges
 
@@ -114,14 +130,14 @@ severely limit the viability of smaller microbrewing boats.
 Homebrewers would likely not see much of an issue or change to their typical 
 brewing process.  
 
-Marco-, industrial brewing would require a vessel well-beyond the expertise
+Marco-brewing would require a vessel well-beyond the expertise
 of the authors.  Tankers, cruise ships, or some other blue water merchant ship 
 would likely be needed to properly service their targeted barrel volume(s).
 
 The, likely, most viable boat-brewery would use a smaller-sized merchant ship
 or large oceanic tugboat as its brewery.  Cursory internet research places a boat
-that is appropriate for a brewery between 850,000 - 2,000,000 USD.  This does not
-include costs of retrofitting necessary equipment onto the boat. (add more) 
+that is appropriate for a brewery between 650,000 - 2,000,000 USD in 2023.  
+This does not include costs of retrofitting necessary equipment onto the boat.  
 
 ### Stable/Consistent Brewing Conditions
 
@@ -133,12 +149,11 @@ include costs of retrofitting necessary equipment onto the boat. (add more)
 
 (Offers the rather niche intersection for brewhouse workers, needing to be
 sailors and brewers - or a larger workforce needed to fill these roles
-separately)
+separately. Something about a chief mouser for the boat as well.)
 
 (It would be worth putting down our business culture requirements in writing
 to reference.  This may include leadership structure, decision making and 
-equity offered to workers. It is possible a beer-focused [DAO](https://ethereum.org/en/dao/) 
-could negotiate parts of this complex culture). 
+equity offered to workers.) 
 
 ### Sustainability
 
