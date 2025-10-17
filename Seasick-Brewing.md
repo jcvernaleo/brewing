@@ -4,7 +4,7 @@ This whitepaper describes the challenges and possibilities of
 boat-based (mostly) small scale brewing of beer.  It discusses the
 motivations, open questions, and possible solutions.
 
-### 02/2023
+## 02/2023
 
 ### authors
 
@@ -30,7 +30,7 @@ For the proposes of this paper we will assume that there are three
 size scales for brewing.  In reality there is much more of a continuum
 but for simplicity three scales should illustrate things well enough.
 
-Homebrew scale will be considered anything in the maximum of **100 
+Homebrew scale will be considered anything in the maximum of **100
 to 200 gallon** range per year - this is a legal limit and definition
 in the United States.
 
@@ -38,7 +38,7 @@ Microbrew is defined as anything larger than homebrew but fewer than
 **15,000 U.S. barrels** in production volume a year.  A mircobrew operation
 is likely to be the most realistic scale for boat-based brewing - allowing
 for flexibility within the limitations (see below) and maximizing possible
-profit. 
+profit.
 
 Macrobrew is defined as brewing on what we can consider an industrial
 scale.  It is unlikely that macrobrew can be done on a boat (unless
@@ -50,8 +50,8 @@ seen as a major loss.
 There are several basic requirements for brewing: water, malted grains,
 yeast, hops and other additions, heat, and temperature controlled
 space for fermenting. To be Reinheitsgebot compliant, we can further
-simplify by removing the possibility of adjuncts. There is no 
-Reinheitsgebot compliance issue based on production facility to the 
+simplify by removing the possibility of adjuncts. There is no
+Reinheitsgebot compliance issue based on production facility to the
 authors' knowledge.
 
 Malted grains, yeast, hops and other additions are all easily procured on
@@ -68,76 +68,76 @@ without much trouble.
 
 Anything larger than homebrew scale might further complicate importing
 fresh water for an ocean-based boat brew.  With that said, the seemingly
-limitless fresh water from U.S. Great Lakes offer a tempting alternative 
-(though, with their own set of issues - particularly the rather 
+limitless fresh water from U.S. Great Lakes offer a tempting alternative
+(though, with their own set of issues - particularly the rather
 harsh winters they withstand).  It's worth noting that treated water from
-the Great Lakes (spare Erie) is incredibly desirable for brew operations. 
-This may be solved for through either permanent docking and municipal taps 
+the Great Lakes (spare Erie) is incredibly desirable for brew operations.
+This may be solved for through either permanent docking and municipal taps
 (which may require further treatment depending on the water) or a deal with
-harbors and marinas to provide water to the boat as part of a seasonable 
-docking or leasing of dock space.  While a challenge not typical of a 
-building-based brewery, it is not insurmountable. 
+harbors and marinas to provide water to the boat as part of a seasonable
+docking or leasing of dock space.  While a challenge not typical of a
+building-based brewery, it is not insurmountable.
 
 The second use of water is as a thermal reservoir, generally to cool
 the wort very quickly.  In this case, brewing on a boat provides
 several new options as there is an effectively limitless thermal
 reservoir in the ocean or lake (assuming we are not talking about
-industrial scale brewing). There may be local enviornmental considerations 
-when docked that would need to be approved and sorted with local 
+industrial scale brewing). There may be local enviornmental considerations
+when docked that would need to be approved and sorted with local
 departments of natural resources - as even large air conditioning units
-in buildings are prohibited from dumbing otherwise untainted water 
-back into the enviornment at a higher temperature. 
+in buildings are prohibited from dumbing otherwise untainted water
+back into the enviornment at a higher temperature.
 
 The next major issue is heating the water.  To brew, a large amount of
 water must be boiling or otherwise heating in a controlled way.  This
-would most likely have to be done with natural gas heating elements 
-unless someother source of heating was available on the vessel.  
-There is also the possibility that electric heating elements 
+would most likely have to be done with natural gas heating elements
+unless someother source of heating was available on the vessel.
+There is also the possibility that electric heating elements
 could be employed here as most boats already have powerful electricity
-generators for vital operations and systems on the vessel - brewing 
-would qualify as a vital operation of a brewery boat. 
+generators for vital operations and systems on the vessel - brewing
+would qualify as a vital operation of a brewery boat.
 
 On the heating note, the authors of this paper, while lacking any formal
-nautical training, are accomplished scroungers and interested in 
+nautical training, are accomplished scroungers and interested in
 utilizing "wasted" energy.  There may be some potential to utilize
 the "waste" heat generated by the boat's engine room in assisting (not
-driving) the boiling or mashing process. More research is needed. 
+driving) the boiling or mashing process. More research is needed.
 
-Requirements for the vessel itself would be docking, mooring, 
+Requirements for the vessel itself would be docking, mooring,
 applicable licensing, (potential) dry docking, fuel, and a crew capable
 of running a ship should it ever leave its dock.
 
-Finally, the brewery would also require initial capital to purchase the 
-necessary components for operations, including an appropriate boat, and 
-hire employees. The authors of this paper do not yet know which ways a 
-capital raise would be most effective, the target of the raise, or whom 
-they would first approach for such an endeavor.  It is worth noting 
+Finally, the brewery would also require initial capital to purchase the
+necessary components for operations, including an appropriate boat, and
+hire employees. The authors of this paper do not yet know which ways a
+capital raise would be most effective, the target of the raise, or whom
+they would first approach for such an endeavor.  It is worth noting
 that crowd-funding could very well be a viable option.  Communities love
-owning a piece of business in a given area.  Breweries tend to hold a 
-special place in the hearts of locals. 
+owning a piece of business in a given area.  Breweries tend to hold a
+special place in the hearts of locals.
 
 ## Challenges
 
 There are a number of challenges this project would face - though
-this should not mean it is not worthy of study and contemplation.  
+this should not mean it is not worthy of study and contemplation.
 
 ### Scale
 
-The authors have outlined their three definitions of brewing scale earlier 
+The authors have outlined their three definitions of brewing scale earlier
 in this whitepaper.  Acquisition costs, profits, and operational budgets may
-severely limit the viability of smaller microbrewing boats. 
+severely limit the viability of smaller microbrewing boats.
 
-Homebrewers would likely not see much of an issue or change to their typical 
-brewing process.  
+Homebrewers would likely not see much of an issue or change to their typical
+brewing process.
 
-Marco-brewing would require a vessel well-beyond the expertise
-of the authors.  Tankers, cruise ships, or some other blue water merchant ship 
+Macro-brewing would require a vessel well-beyond the expertise
+of the authors.  Tankers, cruise ships, or some other blue water merchant ship
 would likely be needed to properly service their targeted barrel volume(s).
 
 The, likely, most viable boat-brewery would use a smaller-sized merchant ship
 or large oceanic tugboat as its brewery.  Cursory internet research places a boat
-that is appropriate for a brewery between 650,000 - 2,000,000 USD in 2023.  
-This does not include costs of retrofitting necessary equipment onto the boat.  
+that is appropriate for a brewery between 650,000 - 2,000,000 USD in 2023.
+This does not include costs of retrofitting necessary equipment onto the boat.
 
 ### Stable/Consistent Brewing Conditions
 
@@ -152,66 +152,72 @@ sailors and brewers - or a larger workforce needed to fill these roles
 separately. Something about a chief mouser for the boat as well.)
 
 (It would be worth putting down our business culture requirements in writing
-to reference.  This may include leadership structure, decision making and 
-equity offered to workers.) 
+to reference.  This may include leadership structure, decision making and
+equity offered to workers.)
 
 ### Sustainability
 
-Sustainability is often a 10-dollar word used by various organizations in an 
-attempt to atone for any perceived or actual transgression against the 
+Sustainability is often a 10-dollar word used by various organizations in an
+attempt to atone for any perceived or actual transgression against the
 environment or community. Sea-sick, or any boat-based brewery attempted by
 the authors, would commit sustainability with a deadly seriousness for a number
-of reasons. 
+of reasons.
 
 As noted by the authors in the introduction, brewers are typically a tinkering
 bunch with a strong interest in all things self-sustaining. The authors believe
-that this can, and should, extend to the larger scale operations involved in a 
-brewery - particularly a boat-based brewery. 
+that this can, and should, extend to the larger scale operations involved in a
+brewery - particularly a boat-based brewery.
 
-Most modern sea-worthy vessels combust incredible amounts of fossil fuels. 
+Most modern sea-worthy vessels combust incredible amounts of fossil fuels.
 Considering that such a brewery would require a large vessel, the authors are
-sensitive to the fact that the main power plant of any ship they'd use would 
+sensitive to the fact that the main power plant of any ship they'd use would
 likely be diesel electric.
 
 The authors suspect they would be able to help offset any power plant footprint
-in a few ways while ameliorating waste products. 
+in a few ways while ameliorating waste products.
 
 Firstly, the deck of ship offer wonderful, unobstructed places perfect for solar
 panels. As solar becomes cheaper, the authors would necessarily include solar as
 part of any sustainability efforts on the boat. While electric heating elements
-large enough for the proper operation of a brewery may not be efficient, many 
-other operations within a brewery need access to reliable electricity. Solar 
+large enough for the proper operation of a brewery may not be efficient, many
+other operations within a brewery need access to reliable electricity. Solar
 on the deck of the brewery could help lower costs and lower reliance on
-the grid or onboard power plant. 
+the grid or onboard power plant.
 
-Secondly, the brewing process generates a great deal of bi-products that 
-can be repurposed. It may be possible to add a thermoelectric generator to 
+Secondly, the brewing process generates a great deal of bi-products that
+can be repurposed. It may be possible to add a thermoelectric generator to
 a brew kettle as a way to help reclaim some of the energy lost to heat itself.
 Additionally, if in a tidal area, such a boat could utilize small hydroelectric
-generators to capture the energy of the tide coming in and out. Alternatively, 
-if docked in a river or area with running water, the same sort of generator 
-could be used. 
+generators to capture the energy of the tide coming in and out. Alternatively,
+if docked in a river or area with running water, the same sort of generator
+could be used.
 
 Thirdly, the materials used in beer production themselves are well-equipped for
-secondary use. Spent grains are perfect for making bread, biscuits, dog treats, 
+secondary use. Spent grains are perfect for making bread, biscuits, dog treats,
 or compost. Spent hops can see a second life as compost materials. Yeast cakes
-have long been used in the production of yeast extract products enjoyed by 
-millions world wide. 
+have long been used in the production of yeast extract products enjoyed by
+millions world wide.
 
 The `Canning` section of this whitepaper will more fully delve into the authors'
-plans for wider distribution, but it will adhere to the proposed brewery's 
-commitment to sustainability. 
+plans for wider distribution, but it will adhere to the proposed brewery's
+commitment to sustainability.
 
 ## Beers & Products
 
-### Flagship Brews 
+### Flagship Brews
 
 #### Year-Round
 
 Most successful breweries offer between 3-5 beers that are available
 year-round.  Our Flagship Series (pardon the pun) should include at least:
-1) lager, 2) IPA, 3) APA, and 4) stout.  This offers a flexible range while 
-limiting the variables of a baseline operation. 
+
+1) lager
+2) IPA
+3) APA
+4) stout
+
+This offers a flexible range while
+limiting the variables of a baseline operation.
 
 #### Seasonal
 
@@ -221,7 +227,7 @@ can decide what makes the most sense given resources and industry trends.
 #### Novelty & Experimentation
 
 (As a boat-based brewery, we would need to be authorities
-on the latest in the industry and how to offer unique 
+on the latest in the industry and how to offer unique
 experiences to our customers)
 
 ### Quality & Consistency
@@ -232,7 +238,7 @@ without calling attention to the boat)
 ## Revenue, Fundraising, & Loyalty
 
 (We need people to initially invest in our idea and
-leverage their connections to bring this thing to life - 
+leverage their connections to bring this thing to life -
 then retain those customers)
 
 ## Distribution & Packaging
@@ -241,25 +247,25 @@ then retain those customers)
 
 One of the most profitable ways for a brewery to distribute its
 product is a taproom.  The advantages are quite clear: kegs can be
-reused, CO2 is abundant, and no middleman can take a cut. The 
+reused, CO2 is abundant, and no middleman can take a cut. The
 maritime nature of boat-based brewing offers novel taproom potential.
 
 Given size constraints, it is unlikely that such a brewery could host
 the taproom on the actual brew-boat (or brew-barge).  This leaves two
-options while staying thematically consistent: 1) a separate, docked 
+options while staying thematically consistent: 1) a separate, docked
 taproom boat or 2) a more traditional taproom on a wharf or dock of
 some type.  Noting here that "Scuttlebutt" and "The Tender" are just
-some of the nautical themed names a taproom might adopt. 
+some of the nautical themed names a taproom might adopt.
 
 However, it is possible that boats on the larger end of the authors'
-scale for a brewery tend to have flat decks (typically reserved for 
+scale for a brewery tend to have flat decks (typically reserved for
 shipping containers) which could easily house a taproom.  Furthermore,
 a boat-based brewery might even consider adding a few shipping containers
-back to the deck to create a pandemic-ready taproom. 
+back to the deck to create a pandemic-ready taproom.
 
 ### Canning
 
-(Canning - for many reasons, any on-boat canning should want to 
+(Canning - for many reasons, any on-boat canning should want to
 use AL cans as opposed to glass bottles.)
 
 ### Kegging
@@ -270,19 +276,20 @@ use AL cans as opposed to glass bottles.)
 
 As with all breweries, distribution would necessarily need to begin
 on a smaller scale - potentially staying that way through the duration
-of a given boat-brewery's life.  The ability to physically move the 
-brewery, especially directly to ports, does offer a potentially 
-interesting opportunity for wider distribution. 
+of a given boat-brewery's life.  The ability to physically move the
+brewery, especially directly to ports, does offer a potentially
+interesting opportunity for wider distribution.
 
 ## Marketing
 
 (Add more for marketing this operation)
 
 ## Legal
-The authors of this paper offer no legal understanding of 
+
+The authors of this paper offer no legal understanding of
 (inter)national alcohol regulations, outside of more obvious
 and commonplace knowledge.  Literature outlining maritime brewing,
-distillation (see below), or any other fermentation processes is 
+distillation (see below), or any other fermentation processes is
 lacking.
 
 In addition to this glaring ambiguity, state laws (for US coastal brewing)
@@ -307,7 +314,7 @@ and so forth)
 
 Distilling might also provide an interesting area for water-based
 production.  It is important to note that generally speaking,
-home distilling is not legal in the United States and so this section 
+home distilling is not legal in the United States and so this section
 is for entertainment purposes only.  It is unclear to the authors the
 legality of distilling in international waters.
 
@@ -316,7 +323,6 @@ on land.  This includes some form of fermentable sugar (potentially a
 grain) and yeast.  All of these mirror the situation for brewing.
 
 The larger concern is running a still on a boat.  The motion of a boat
-might produce problems which may require stabilization of the heating 
+might produce problems which may require stabilization of the heating
 element or still-contents.  An overflow of the still onto the heating element
-must be avoided at all costs. 
-
+must be avoided at all costs.
