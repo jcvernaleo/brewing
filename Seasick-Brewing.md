@@ -82,7 +82,7 @@ The second use of water is as a thermal reservoir, generally to cool
 the wort very quickly.  In this case, brewing on a boat provides
 several new options as there is an effectively limitless thermal
 reservoir in the ocean or lake (assuming we are not talking about
-industrial scale brewing). There may be local enviornmental considerations
+industrial scale brewing). There may be local environmental considerations
 when docked that would need to be approved and sorted with local
 departments of natural resources - as even large air conditioning units
 in buildings are prohibited from dumbing otherwise untainted water
