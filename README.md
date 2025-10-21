@@ -3,7 +3,7 @@
 To check spelling:
 
 ``` sh
-cat Seasick-Brewing.md | ispell -p brewing.en_US -l
+cat Seasick-Brewing.md | ispell -p brewing.en_US -l | sort | uniq
 ```
 
 The file `brewing.en_US` contains words not in the standard dictionary that
